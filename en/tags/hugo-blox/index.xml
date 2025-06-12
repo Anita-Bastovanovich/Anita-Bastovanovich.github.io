@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://anita-bastovanovich.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://anita-bastovanovich.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anita-bastovanovich.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://anita-bastovanovich.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>Study Week May 29 – June 4</title>
+      <link>https://anita-bastovanovich.github.io/en/post/05/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/05/</guid>
+      <description>&lt;h1 id=&#34;-week-5-presentation-and-communication-skills&#34;&gt;🎤 Week 5: Presentation and Communication Skills&lt;/h1&gt;
+&lt;p&gt;This week focused on how to effectively communicate ideas. We practiced creating visually clean and logical presentations and worked on public speaking skills.&lt;br&gt;
+We prepared slide decks on academic project topics and presented them to each other.&lt;/p&gt;
+&lt;p&gt;🗣 We also practiced the “elevator pitch” technique — summarizing a project in just 30 seconds.&lt;br&gt;
+✨ A valuable skill: the ability to highlight the main point and present it with confidence.&lt;/p&gt;
+&lt;p&gt;🎯 Week’s takeaway: a great presentation isn’t just about the slides — it’s about the energy behind your words.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 22–28</title>
+      <link>https://anita-bastovanovich.github.io/en/post/04/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/04/</guid>
+      <description>&lt;h1 id=&#34;-week-4-writing-the-first-python-program&#34;&gt;🐍 Week 4: Writing the First Python Program&lt;/h1&gt;
+&lt;p&gt;This week we began exploring the Python programming language. We wrote our first scripts, solved problems using conditionals, loops, and lists,&lt;br&gt;
+and learned how to automate working with text and spreadsheets.&lt;/p&gt;
+&lt;p&gt;In practice, we built a mini calculator and a simple CSV data analyzer.&lt;br&gt;
+🔥 The most exciting part: a project that counts word frequency in a text.&lt;/p&gt;
+&lt;p&gt;💡 Realization of the week: programming isn’t hard if you break problems down into small steps.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 15–21</title>
+      <link>https://anita-bastovanovich.github.io/en/post/03/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/03/</guid>
+      <description>&lt;h1 id=&#34;-week-3-fundamentals-of-project-management&#34;&gt;📋 Week 3: Fundamentals of Project Management&lt;/h1&gt;
+&lt;p&gt;This week we explored the core principles of project management: the project life cycle, participant roles, goals, and risk assessment.&lt;br&gt;
+We reviewed IT case studies, discussed Agile vs. Waterfall approaches, and built a Gantt chart for a hypothetical startup.&lt;/p&gt;
+&lt;p&gt;🗂 During the seminar, we worked in teams to simulate launching an online store — assigning roles, setting deadlines, and identifying risks.&lt;br&gt;
+🔍 Lesson of the week: even the best idea can fail without a solid plan.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 8–14</title>
+      <link>https://anita-bastovanovich.github.io/en/post/02/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/02/</guid>
+      <description>&lt;h1 id=&#34;-week-2-diving-into-sql&#34;&gt;🗃 Week 2: Diving into SQL&lt;/h1&gt;
+&lt;p&gt;This week we started learning SQL — the language used for querying databases. We covered essential operators: &lt;code&gt;SELECT&lt;/code&gt;, &lt;code&gt;WHERE&lt;/code&gt;, &lt;code&gt;ORDER BY&lt;/code&gt;, &lt;code&gt;GROUP BY&lt;/code&gt;, and &lt;code&gt;JOIN&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;In the lab, we wrote queries for a sample customer and orders database. It was especially interesting to filter data using conditions and combine tables with joins.&lt;/p&gt;
+&lt;p&gt;💪 Task of the week: find all customers who placed orders worth more than 5,000 rubles.&lt;br&gt;
+🧠 Insight of the week: SQL is a powerful tool, and writing queries feels like composing logical expressions.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 1–7</title>
+      <link>https://anita-bastovanovich.github.io/en/post/01/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/01/</guid>
+      <description>&lt;h1 id=&#34;-week-1-first-steps-in-data-analysis&#34;&gt;📚 Week 1: First Steps in Data Analysis&lt;/h1&gt;
+&lt;p&gt;This week we began exploring the basics of data analysis. We learned how to work with spreadsheets in Excel, how to build charts, and how to use functions like &lt;code&gt;VLOOKUP&lt;/code&gt;, &lt;code&gt;IF&lt;/code&gt;, and pivot tables.&lt;br&gt;
+During the practical sessions, we also tried simple data visualizations in Google Sheets and analyzed a small retail sales dataset.&lt;/p&gt;
+&lt;p&gt;✨ Highlight of the week: we explored a case study on detecting anomalies in retail reports.&lt;br&gt;
+📌 Takeaway: data is not just numbers — it’s the foundation for decision-making.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

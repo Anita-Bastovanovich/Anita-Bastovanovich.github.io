@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | My Site</title>
+    <link>https://anita-bastovanovich.github.io/en/project/</link>
+      <atom:link href="https://anita-bastovanovich.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anita-bastovanovich.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://anita-bastovanovich.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Academic Website with Hugo Academic</title>
+      <link>https://anita-bastovanovich.github.io/en/project/hugo/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;-academic-website-with-hugo-academic-a-platform-that-works-for-you&#34;&gt;🌐 Academic Website with Hugo Academic: A Platform That Works for You&lt;/h1&gt;
+&lt;p&gt;Today, having an online presence is becoming an essential part of academic and educational careers. Publications, projects, talks, and achievements deserve to be collected in one place — as a personal website. One of the most convenient and flexible solutions for this is &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-hugo-academic&#34;&gt;🧠 What Is Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a theme template for static websites, built on the &lt;strong&gt;Hugo&lt;/strong&gt; framework. It’s specifically designed for &lt;strong&gt;researchers, educators, and students&lt;/strong&gt; who want to professionally showcase their research, courses, biography, and publications.&lt;/p&gt;
+&lt;p&gt;The website is built as a collection of text files (in Markdown format) and can be deployed on any hosting platform — GitHub Pages, Netlify, Vercel, and others.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-can-you-include-on-your-website&#34;&gt;📚 What Can You Include on Your Website?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Biography and photo&lt;/li&gt;
+&lt;li&gt;List of publications with links&lt;/li&gt;
+&lt;li&gt;Courses you teach&lt;/li&gt;
+&lt;li&gt;Research projects and grants&lt;/li&gt;
+&lt;li&gt;Presentations, talks, and videos&lt;/li&gt;
+&lt;li&gt;Blog or news section&lt;/li&gt;
+&lt;li&gt;Resume (including a downloadable PDF)&lt;/li&gt;
+&lt;li&gt;Languages, skills, interests, and contact details&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-choose-hugo-academic&#34;&gt;⚙️ Why Choose Hugo Academic?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🛠 &lt;strong&gt;Automation&lt;/strong&gt;: Integrate with Google Scholar, ORCID, BibTeX files, and publication RSS feeds&lt;/li&gt;
+&lt;li&gt;📈 &lt;strong&gt;SEO &amp;amp; Speed&lt;/strong&gt;: Lightning-fast load times, even with a weak connection&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Minimalist &amp;amp; Stylish&lt;/strong&gt;: A clean academic look that’s also modern and responsive&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Extensible&lt;/strong&gt;: Add new sections, integrations, and features with ease&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;Full Content Control&lt;/strong&gt;: You’re not dependent on third-party platforms&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Multilingual Support&lt;/strong&gt;: Easily build a multilingual site&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-is-the-site-structured&#34;&gt;🔄 How Is the Site Structured?&lt;/h2&gt;
+&lt;p&gt;The website structure consists of folders:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;content/&lt;/code&gt; — pages such as bio, projects, publications, and blog posts&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;data/&lt;/code&gt; — structured data like skills, interests, and profiles&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;assets/&lt;/code&gt; — images and media files&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config/&lt;/code&gt; — site configuration and settings&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;themes/&lt;/code&gt; — contains the Academic theme itself&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You write your content in Markdown, and Hugo automatically renders it to HTML, generating a complete website.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-deploy-in-15-minutes&#34;&gt;🚀 Deploy in 15 Minutes&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo and download the Academic theme&lt;/li&gt;
+&lt;li&gt;Fill in your personal details&lt;/li&gt;
+&lt;li&gt;Write your posts and pages in Markdown&lt;/li&gt;
+&lt;li&gt;Push your site to GitHub and publish via Netlify or Vercel&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The site updates automatically with every change, making it convenient even for beginners.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-who-is-it-for&#34;&gt;🔍 Who Is It For?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Students and graduate students who want to showcase their work&lt;/li&gt;
+&lt;li&gt;Lecturers building a professional teaching portfolio&lt;/li&gt;
+&lt;li&gt;Researchers with publications and ongoing projects&lt;/li&gt;
+&lt;li&gt;Academic job applicants building a public academic profile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🎓 Conclusion&lt;/h2&gt;
+&lt;p&gt;A site built with Hugo Academic is more than just a digital business card — it’s a &lt;strong&gt;professional platform&lt;/strong&gt; that reflects your journey in science, education, and beyond. It highlights your identity, organizes your achievements, and makes your work accessible to colleagues, students, and the wider academic community.&lt;/p&gt;
+&lt;p&gt;If you haven&amp;rsquo;t created your personal site yet — now might be the time to start. Hugo Academic gives you a simple yet powerful tool to present yourself in the digital world of academia. 🌍&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

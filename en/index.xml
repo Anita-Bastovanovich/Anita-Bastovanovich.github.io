@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Site</title>
+    <link>https://anita-bastovanovich.github.io/en/</link>
+      <atom:link href="https://anita-bastovanovich.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Site</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anita-bastovanovich.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>My Site</title>
+      <link>https://anita-bastovanovich.github.io/en/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://anita-bastovanovich.github.io/en/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 29 – June 4</title>
+      <link>https://anita-bastovanovich.github.io/en/post/05/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/05/</guid>
+      <description>&lt;h1 id=&#34;-week-5-presentation-and-communication-skills&#34;&gt;🎤 Week 5: Presentation and Communication Skills&lt;/h1&gt;
+&lt;p&gt;This week focused on how to effectively communicate ideas. We practiced creating visually clean and logical presentations and worked on public speaking skills.&lt;br&gt;
+We prepared slide decks on academic project topics and presented them to each other.&lt;/p&gt;
+&lt;p&gt;🗣 We also practiced the “elevator pitch” technique — summarizing a project in just 30 seconds.&lt;br&gt;
+✨ A valuable skill: the ability to highlight the main point and present it with confidence.&lt;/p&gt;
+&lt;p&gt;🎯 Week’s takeaway: a great presentation isn’t just about the slides — it’s about the energy behind your words.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Hygiene</title>
+      <link>https://anita-bastovanovich.github.io/en/publication/05/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/publication/05/</guid>
+      <description>&lt;h1 id=&#34;-digital-hygiene-how-to-stay-focused-in-a-world-of-distractions&#34;&gt;🌿 Digital Hygiene: How to Stay Focused in a World of Distractions&lt;/h1&gt;
+&lt;p&gt;We live in an age of endless notifications, algorithms, podcasts, stories, and calls. The digital environment gives us unlimited access to information — and, at the same time, it brings distraction, anxiety, and fatigue. To maintain mental clarity and productivity, it&amp;rsquo;s essential to develop strong &lt;strong&gt;digital hygiene&lt;/strong&gt; habits.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-digital-hygiene&#34;&gt;🧠 What Is Digital Hygiene?&lt;/h2&gt;
+&lt;p&gt;Digital hygiene is the conscious management of your attention and time in a tech-saturated world. It includes habits and principles that help:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;minimize informational noise,&lt;/li&gt;
+&lt;li&gt;avoid digital addiction,&lt;/li&gt;
+&lt;li&gt;maintain productivity and mental well-being.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-does-it-matter&#34;&gt;🔄 Why Does It Matter?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📵 On average, we check our smartphones 58 times a day.&lt;/li&gt;
+&lt;li&gt;📉 Constant task-switching lowers focus and slows thinking.&lt;/li&gt;
+&lt;li&gt;🧠 Chronic information overload affects sleep, learning, and memory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-core-principles-of-digital-hygiene&#34;&gt;📋 Core Principles of Digital Hygiene&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mindful Information Consumption&lt;/strong&gt;&lt;br&gt;
+Don&amp;rsquo;t scroll — choose. Subscriptions, feeds, and channels should align with your goals and interests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Notification Management&lt;/strong&gt;&lt;br&gt;
+Disable push notifications for apps that don’t require urgent action. Not every pop-up is worth your attention.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Digital Detox&lt;/strong&gt;&lt;br&gt;
+Take regular breaks from screens — whether it’s two hours in the evening or a tech-free weekend.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Focused Device Use&lt;/strong&gt;&lt;br&gt;
+Follow the &amp;ldquo;one task — one screen&amp;rdquo; rule. Close unnecessary tabs and avoid distracting background media.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Screen Time Awareness&lt;/strong&gt;&lt;br&gt;
+Set limits on social media and games. Apps can remind you when it’s time to stop.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-apply-this-in-daily-life&#34;&gt;🧘‍♀️ How to Apply This in Daily Life&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Before bed — &lt;strong&gt;quiet mode&lt;/strong&gt;: avoid phone use at least 30 minutes before sleep.&lt;/li&gt;
+&lt;li&gt;Mornings — &lt;strong&gt;screen-free start&lt;/strong&gt;: begin your day with breathing, stretching, or journaling — not news feeds.&lt;/li&gt;
+&lt;li&gt;Studying — &lt;strong&gt;timed sessions&lt;/strong&gt;: 25 minutes of focus, 5 minutes of rest (Pomodoro method).&lt;/li&gt;
+&lt;li&gt;Feeling overwhelmed? &lt;strong&gt;Audit your time&lt;/strong&gt;: check which apps consume most of your energy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;Digital hygiene isn’t about rejecting technology — it’s about using it &lt;strong&gt;consciously&lt;/strong&gt;. It’s the balance between external noise and internal attention.&lt;/p&gt;
+&lt;p&gt;The better we manage our focus, the more effectively we learn, work, rest, and grow. In a world where attention is currency, mastering it is a core skill for the 21st century. 🌱&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 22–28</title>
+      <link>https://anita-bastovanovich.github.io/en/post/04/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/04/</guid>
+      <description>&lt;h1 id=&#34;-week-4-writing-the-first-python-program&#34;&gt;🐍 Week 4: Writing the First Python Program&lt;/h1&gt;
+&lt;p&gt;This week we began exploring the Python programming language. We wrote our first scripts, solved problems using conditionals, loops, and lists,&lt;br&gt;
+and learned how to automate working with text and spreadsheets.&lt;/p&gt;
+&lt;p&gt;In practice, we built a mini calculator and a simple CSV data analyzer.&lt;br&gt;
+🔥 The most exciting part: a project that counts word frequency in a text.&lt;/p&gt;
+&lt;p&gt;💡 Realization of the week: programming isn’t hard if you break problems down into small steps.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://anita-bastovanovich.github.io/en/publication/04/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/publication/04/</guid>
+      <description>&lt;h1 id=&#34;-scientific-programming-languages-from-theory-to-computation&#34;&gt;💻 Scientific Programming Languages: From Theory to Computation&lt;/h1&gt;
+&lt;p&gt;Scientific programming is a domain where programming directly serves research goals: modeling, simulation, data analysis, and result visualization. From physics and bioinformatics to economics and machine learning — wherever there are data, formulas, and algorithms, specialized languages are in use.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-scientific-programming&#34;&gt;🧠 What Is Scientific Programming?&lt;/h2&gt;
+&lt;p&gt;It’s the process of writing programs to solve problems encountered in scientific research. These programs simulate system behavior, perform numerical experiments, process large datasets, or visualize patterns.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-features-of-scientific-programming-languages&#34;&gt;🧰 Key Features of Scientific Programming Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;High precision for floating-point numbers&lt;/li&gt;
+&lt;li&gt;Optimized libraries for linear algebra, statistics, and equations&lt;/li&gt;
+&lt;li&gt;Integration with data visualization and analysis tools&lt;/li&gt;
+&lt;li&gt;Support for arrays, matrices, and tensors&lt;/li&gt;
+&lt;li&gt;Ability to parallelize and accelerate computations automatically&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-languages-in-the-scientific-community&#34;&gt;🔍 Popular Languages in the Scientific Community&lt;/h2&gt;
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+&lt;p&gt;A universal and beginner-friendly language with powerful libraries: NumPy, SciPy, Matplotlib, Pandas, TensorFlow. Ideal for data analysis, modeling, and machine learning.&lt;/p&gt;
+&lt;h3 id=&#34;r&#34;&gt;R&lt;/h3&gt;
+&lt;p&gt;Specialized in statistics and visualization. Widely used in biostatistics, econometrics, and the social sciences.&lt;/p&gt;
+&lt;h3 id=&#34;matlab&#34;&gt;MATLAB&lt;/h3&gt;
+&lt;p&gt;Used for numerical analysis, signal processing, and control systems. Common in engineering and applied mathematics.&lt;/p&gt;
+&lt;h3 id=&#34;julia&#34;&gt;Julia&lt;/h3&gt;
+&lt;p&gt;A modern language that combines the speed of C with Python-like syntax. Suitable for high-performance computing and scientific simulations.&lt;/p&gt;
+&lt;h3 id=&#34;fortran&#34;&gt;Fortran&lt;/h3&gt;
+&lt;p&gt;One of the oldest languages, still widely used in physics, meteorology, and numerical methods. Known for its speed.&lt;/p&gt;
+&lt;h3 id=&#34;cc&#34;&gt;C/C++&lt;/h3&gt;
+&lt;p&gt;Used for building performance-intensive libraries, simulations, and systems-level programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-applications&#34;&gt;🌍 Applications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Data processing and analysis in life sciences, climate research, and sociology&lt;/li&gt;
+&lt;li&gt;🧮 Modeling physical and chemical processes&lt;/li&gt;
+&lt;li&gt;🔬 Image and signal processing&lt;/li&gt;
+&lt;li&gt;🌐 Artificial intelligence and deep learning&lt;/li&gt;
+&lt;li&gt;🚀 Aerospace simulations and trajectory calculations&lt;/li&gt;
+&lt;li&gt;🧬 Genetic algorithms and evolutionary modeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-choosing-the-right-language&#34;&gt;🔄 Choosing the Right Language&lt;/h2&gt;
+&lt;p&gt;There is no “best” language — the choice depends on the task:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Domain&lt;/th&gt;
+          &lt;th&gt;Recommended Languages&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Statistics and visualization&lt;/td&gt;
+          &lt;td&gt;R, Python&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Numerical methods&lt;/td&gt;
+          &lt;td&gt;MATLAB, Julia, Fortran&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Machine learning&lt;/td&gt;
+          &lt;td&gt;Python, Julia&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;High-performance computing&lt;/td&gt;
+          &lt;td&gt;C++, Fortran, Julia&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Rapid prototyping&lt;/td&gt;
+          &lt;td&gt;Python, MATLAB&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-important-notes&#34;&gt;🧩 Important Notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A language is just a tool. Understanding the problem and methods is more important than syntax.&lt;/li&gt;
+&lt;li&gt;Most real-world projects use a &lt;strong&gt;combination of languages&lt;/strong&gt; — for example, Python for analysis and C++ for speed.&lt;/li&gt;
+&lt;li&gt;Scientific programming skills are increasingly in demand — in both academia and industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🧠 Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are the bridge between abstract theory and real-world computation. They enable scientists, engineers, and analysts to explore complex systems, make predictions, and uncover patterns in data.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re aiming to work on the science of tomorrow, mastering at least one of these languages is not optional — it&amp;rsquo;s essential. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 15–21</title>
+      <link>https://anita-bastovanovich.github.io/en/post/03/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/03/</guid>
+      <description>&lt;h1 id=&#34;-week-3-fundamentals-of-project-management&#34;&gt;📋 Week 3: Fundamentals of Project Management&lt;/h1&gt;
+&lt;p&gt;This week we explored the core principles of project management: the project life cycle, participant roles, goals, and risk assessment.&lt;br&gt;
+We reviewed IT case studies, discussed Agile vs. Waterfall approaches, and built a Gantt chart for a hypothetical startup.&lt;/p&gt;
+&lt;p&gt;🗂 During the seminar, we worked in teams to simulate launching an online store — assigning roles, setting deadlines, and identifying risks.&lt;br&gt;
+🔍 Lesson of the week: even the best idea can fail without a solid plan.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic Website with Hugo Academic</title>
+      <link>https://anita-bastovanovich.github.io/en/project/hugo/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;-academic-website-with-hugo-academic-a-platform-that-works-for-you&#34;&gt;🌐 Academic Website with Hugo Academic: A Platform That Works for You&lt;/h1&gt;
+&lt;p&gt;Today, having an online presence is becoming an essential part of academic and educational careers. Publications, projects, talks, and achievements deserve to be collected in one place — as a personal website. One of the most convenient and flexible solutions for this is &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-hugo-academic&#34;&gt;🧠 What Is Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a theme template for static websites, built on the &lt;strong&gt;Hugo&lt;/strong&gt; framework. It’s specifically designed for &lt;strong&gt;researchers, educators, and students&lt;/strong&gt; who want to professionally showcase their research, courses, biography, and publications.&lt;/p&gt;
+&lt;p&gt;The website is built as a collection of text files (in Markdown format) and can be deployed on any hosting platform — GitHub Pages, Netlify, Vercel, and others.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-can-you-include-on-your-website&#34;&gt;📚 What Can You Include on Your Website?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Biography and photo&lt;/li&gt;
+&lt;li&gt;List of publications with links&lt;/li&gt;
+&lt;li&gt;Courses you teach&lt;/li&gt;
+&lt;li&gt;Research projects and grants&lt;/li&gt;
+&lt;li&gt;Presentations, talks, and videos&lt;/li&gt;
+&lt;li&gt;Blog or news section&lt;/li&gt;
+&lt;li&gt;Resume (including a downloadable PDF)&lt;/li&gt;
+&lt;li&gt;Languages, skills, interests, and contact details&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-choose-hugo-academic&#34;&gt;⚙️ Why Choose Hugo Academic?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🛠 &lt;strong&gt;Automation&lt;/strong&gt;: Integrate with Google Scholar, ORCID, BibTeX files, and publication RSS feeds&lt;/li&gt;
+&lt;li&gt;📈 &lt;strong&gt;SEO &amp;amp; Speed&lt;/strong&gt;: Lightning-fast load times, even with a weak connection&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Minimalist &amp;amp; Stylish&lt;/strong&gt;: A clean academic look that’s also modern and responsive&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Extensible&lt;/strong&gt;: Add new sections, integrations, and features with ease&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;Full Content Control&lt;/strong&gt;: You’re not dependent on third-party platforms&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Multilingual Support&lt;/strong&gt;: Easily build a multilingual site&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-is-the-site-structured&#34;&gt;🔄 How Is the Site Structured?&lt;/h2&gt;
+&lt;p&gt;The website structure consists of folders:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;content/&lt;/code&gt; — pages such as bio, projects, publications, and blog posts&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;data/&lt;/code&gt; — structured data like skills, interests, and profiles&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;assets/&lt;/code&gt; — images and media files&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config/&lt;/code&gt; — site configuration and settings&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;themes/&lt;/code&gt; — contains the Academic theme itself&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You write your content in Markdown, and Hugo automatically renders it to HTML, generating a complete website.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-deploy-in-15-minutes&#34;&gt;🚀 Deploy in 15 Minutes&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo and download the Academic theme&lt;/li&gt;
+&lt;li&gt;Fill in your personal details&lt;/li&gt;
+&lt;li&gt;Write your posts and pages in Markdown&lt;/li&gt;
+&lt;li&gt;Push your site to GitHub and publish via Netlify or Vercel&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The site updates automatically with every change, making it convenient even for beginners.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-who-is-it-for&#34;&gt;🔍 Who Is It For?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Students and graduate students who want to showcase their work&lt;/li&gt;
+&lt;li&gt;Lecturers building a professional teaching portfolio&lt;/li&gt;
+&lt;li&gt;Researchers with publications and ongoing projects&lt;/li&gt;
+&lt;li&gt;Academic job applicants building a public academic profile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🎓 Conclusion&lt;/h2&gt;
+&lt;p&gt;A site built with Hugo Academic is more than just a digital business card — it’s a &lt;strong&gt;professional platform&lt;/strong&gt; that reflects your journey in science, education, and beyond. It highlights your identity, organizes your achievements, and makes your work accessible to colleagues, students, and the wider academic community.&lt;/p&gt;
+&lt;p&gt;If you haven&amp;rsquo;t created your personal site yet — now might be the time to start. Hugo Academic gives you a simple yet powerful tool to present yourself in the digital world of academia. 🌍&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Presentations</title>
+      <link>https://anita-bastovanovich.github.io/en/publication/03/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/publication/03/</guid>
+      <description>&lt;h1 id=&#34;-creating-presentations-how-to-communicate-your-idea-effectively&#34;&gt;🎤 Creating Presentations: How to Communicate Your Idea Effectively&lt;/h1&gt;
+&lt;p&gt;A presentation is a tool for sharing ideas, showcasing projects, and persuading your audience. A great presentation combines a clear structure, visual appeal, and a confident delivery.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-do-we-need-presentations&#34;&gt;📋 Why Do We Need Presentations?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To &lt;strong&gt;communicate an idea&lt;/strong&gt; concisely and clearly&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;support your speech&lt;/strong&gt; and highlight key points&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;visualize data&lt;/strong&gt;, processes, or structures&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;persuade the audience&lt;/strong&gt; — whether it&amp;rsquo;s investors, instructors, or colleagues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-structure-of-an-effective-presentation&#34;&gt;🧱 Structure of an Effective Presentation&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+Briefly outline the topic, goals, and relevance. Set the tone for the rest of the presentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Main Body&lt;/strong&gt;&lt;br&gt;
+Present the problem, methods, solutions, and results. Each idea deserves its own slide or section.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;br&gt;
+Summarize key points and offer insights or suggestions. Add a &amp;ldquo;Thank You&amp;rdquo; or contact slide.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-visual-design-guidelines&#34;&gt;🎨 Visual Design Guidelines&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use a &lt;strong&gt;consistent design&lt;/strong&gt; — fonts, colors, icons&lt;/li&gt;
+&lt;li&gt;Avoid clutter: &lt;strong&gt;one idea per slide&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Replace text with visuals: &lt;strong&gt;charts, diagrams, and images&lt;/strong&gt; work better&lt;/li&gt;
+&lt;li&gt;Use &lt;strong&gt;contrast&lt;/strong&gt; to emphasize key information&lt;/li&gt;
+&lt;li&gt;Follow &lt;strong&gt;text hierarchy&lt;/strong&gt;: titles, subtitles, bullet points&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-principles-of-a-great-presentation&#34;&gt;🧠 Principles of a Great Presentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Brevity&lt;/strong&gt;: Don’t overload slides with text. Speak rather than read aloud.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Logical flow&lt;/strong&gt;: Each slide should lead naturally to the next.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus&lt;/strong&gt;: Stay on topic and keep the audience engaged.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visual enhancement&lt;/strong&gt;: Use graphics only if they support your message.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practice&lt;/strong&gt;: Even the best slides need confident delivery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tools&#34;&gt;🧰 Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PowerPoint&lt;/strong&gt; — the classic choice for most users&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Slides&lt;/strong&gt; — ideal for collaborative online editing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Canva&lt;/strong&gt; — pre-designed templates with creative flair&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX (Beamer)&lt;/strong&gt; — for structured academic presentations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Figma, Keynote, Prezi&lt;/strong&gt; — for more creative and dynamic formats&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-preparation-tips&#34;&gt;🎯 Preparation Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Carefully &lt;strong&gt;plan your storyline&lt;/strong&gt;: what, why, and for whom&lt;/li&gt;
+&lt;li&gt;Make your presentation a &lt;strong&gt;visual guide&lt;/strong&gt;, not a script&lt;/li&gt;
+&lt;li&gt;Rehearse your delivery: &lt;strong&gt;voice, gestures, and pauses&lt;/strong&gt; all matter&lt;/li&gt;
+&lt;li&gt;Leave time for &lt;strong&gt;questions and feedback&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Keep a &lt;strong&gt;backup copy&lt;/strong&gt; in PDF format&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;A good presentation isn’t just about slides — it’s a thoughtfully designed way to communicate your message to the audience. It should be clear, structured, and visually engaging.&lt;/p&gt;
+&lt;p&gt;And remember: the most important part of your presentation isn’t the slides — it’s &lt;strong&gt;you and your story&lt;/strong&gt;. 🧭&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 8–14</title>
+      <link>https://anita-bastovanovich.github.io/en/post/02/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/02/</guid>
+      <description>&lt;h1 id=&#34;-week-2-diving-into-sql&#34;&gt;🗃 Week 2: Diving into SQL&lt;/h1&gt;
+&lt;p&gt;This week we started learning SQL — the language used for querying databases. We covered essential operators: &lt;code&gt;SELECT&lt;/code&gt;, &lt;code&gt;WHERE&lt;/code&gt;, &lt;code&gt;ORDER BY&lt;/code&gt;, &lt;code&gt;GROUP BY&lt;/code&gt;, and &lt;code&gt;JOIN&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;In the lab, we wrote queries for a sample customer and orders database. It was especially interesting to filter data using conditions and combine tables with joins.&lt;/p&gt;
+&lt;p&gt;💪 Task of the week: find all customers who placed orders worth more than 5,000 rubles.&lt;br&gt;
+🧠 Insight of the week: SQL is a powerful tool, and writing queries feels like composing logical expressions.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup Languages and LaTeX</title>
+      <link>https://anita-bastovanovich.github.io/en/publication/02/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/publication/02/</guid>
+      <description>&lt;h1 id=&#34;-markup-languages-and-latex&#34;&gt;✍️ Markup Languages and LaTeX&lt;/h1&gt;
+&lt;p&gt;Markup is a way of structuring text using special symbols. It not only defines how text is displayed but also adds semantic structure to the document. Markup languages are widely used in web development, academia, and technical documentation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-a-markup-language&#34;&gt;🌐 What Is a Markup Language?&lt;/h2&gt;
+&lt;p&gt;A markup language allows you to add extra information to text — such as whether a phrase is a heading, quote, piece of code, or a formula. Unlike traditional word processors, markup separates &lt;strong&gt;structure&lt;/strong&gt; and &lt;strong&gt;content&lt;/strong&gt; from &lt;strong&gt;presentation&lt;/strong&gt;. This makes documents more flexible, portable, and suitable for automated processing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-types-of-markup-languages&#34;&gt;📚 Types of Markup Languages&lt;/h2&gt;
+&lt;p&gt;Some of the most common markup languages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — used to structure web pages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — popular for blogs, documentation, and version control systems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText&lt;/strong&gt; — commonly used in the Python community for technical docs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — a standard tool for formatting scientific and technical documents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-latex&#34;&gt;🧪 What Is LaTeX?&lt;/h2&gt;
+&lt;p&gt;LaTeX is a powerful markup system developed for formatting scientific texts, formulas, reports, articles, and theses. It is especially popular among students, engineers, mathematicians, and physicists due to its robust support for mathematical notation, references, and bibliographies.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-is-latex-so-popular&#34;&gt;📐 Why Is LaTeX So Popular?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Perfect for formulas.&lt;/strong&gt; No other language provides the same level of precision and flexibility for writing complex mathematical expressions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear document structure.&lt;/strong&gt; Automatic generation of tables of contents, lists, footnotes, and references makes it a powerful academic writing tool.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Full control over style.&lt;/strong&gt; LaTeX allows for precise customization of formatting to meet journal, university, or GOST standards.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compatibility and longevity.&lt;/strong&gt; LaTeX files are plain text and editable in any editor — and they can last for decades.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automation.&lt;/strong&gt; Tables, plots, formulas, and even presentations can be generated programmatically — ideal for reports and research documentation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-latex-used&#34;&gt;🧑‍🎓 Where Is LaTeX Used?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing coursework, theses, and dissertations&lt;/li&gt;
+&lt;li&gt;Preparing scientific articles&lt;/li&gt;
+&lt;li&gt;Compiling research and grant reports&lt;/li&gt;
+&lt;li&gt;Formatting technical manuals and presentations&lt;/li&gt;
+&lt;li&gt;Creating CVs and formal documents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🧠 Conclusion&lt;/h2&gt;
+&lt;p&gt;LaTeX is more than just a language — it&amp;rsquo;s a whole philosophy of document preparation: strict structure, professional output, and powerful formatting tools. It takes time to learn, but the results are worth it — especially if you work in science, analytics, or engineering.&lt;/p&gt;
+&lt;p&gt;If you want your documents to look academic and flawless, LaTeX will be your indispensable ally. 💡&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week May 1–7</title>
+      <link>https://anita-bastovanovich.github.io/en/post/01/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/post/01/</guid>
+      <description>&lt;h1 id=&#34;-week-1-first-steps-in-data-analysis&#34;&gt;📚 Week 1: First Steps in Data Analysis&lt;/h1&gt;
+&lt;p&gt;This week we began exploring the basics of data analysis. We learned how to work with spreadsheets in Excel, how to build charts, and how to use functions like &lt;code&gt;VLOOKUP&lt;/code&gt;, &lt;code&gt;IF&lt;/code&gt;, and pivot tables.&lt;br&gt;
+During the practical sessions, we also tried simple data visualizations in Google Sheets and analyzed a small retail sales dataset.&lt;/p&gt;
+&lt;p&gt;✨ Highlight of the week: we explored a case study on detecting anomalies in retail reports.&lt;br&gt;
+📌 Takeaway: data is not just numbers — it’s the foundation for decision-making.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration and Continuous Deployment</title>
+      <link>https://anita-bastovanovich.github.io/en/publication/01/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;-continuous-integration-and-continuous-deployment-cicd&#34;&gt;🚀 Continuous Integration and Continuous Deployment (CI/CD)&lt;/h1&gt;
+&lt;p&gt;In today’s software development landscape, teams strive to deliver high-quality products as quickly and frequently as possible. To achieve this, they use &lt;strong&gt;Continuous Integration (CI)&lt;/strong&gt; and &lt;strong&gt;Continuous Deployment/Delivery (CD)&lt;/strong&gt; — practices combined under the term &lt;strong&gt;CI/CD&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-cicd&#34;&gt;🧱 What Is CI/CD?&lt;/h2&gt;
+&lt;h3 id=&#34;ci-continuous-integration&#34;&gt;CI (Continuous Integration)&lt;/h3&gt;
+&lt;p&gt;CI means that code changes (commits) are regularly integrated into the main repository branch. After each commit, a chain of automated checks is triggered:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Project compilation and build&lt;/li&gt;
+&lt;li&gt;Unit and integration testing&lt;/li&gt;
+&lt;li&gt;Code style and quality verification&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This way, the team immediately learns whether a new change breaks the system.&lt;/p&gt;
+&lt;h3 id=&#34;cd-continuous-delivery--continuous-deployment&#34;&gt;CD (Continuous Delivery / Continuous Deployment)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Delivery&lt;/strong&gt; is the automated delivery of a tested build to a staging environment. A person then decides whether to release it to production.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Continuous Deployment&lt;/strong&gt; takes it further: changes are deployed to production &lt;strong&gt;automatically&lt;/strong&gt; after successfully passing all pipeline stages — no manual steps required.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-use-cicd&#34;&gt;🔧 Why Use CI/CD?&lt;/h2&gt;
+&lt;p&gt;CI/CD helps to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ Accelerate feature delivery to users&lt;/li&gt;
+&lt;li&gt;🔍 Quickly detect and fix bugs&lt;/li&gt;
+&lt;li&gt;🔁 Reduce release risks with smaller, more frequent updates&lt;/li&gt;
+&lt;li&gt;👩‍💻 Improve collaboration between developers, testers, and DevOps engineers&lt;/li&gt;
+&lt;li&gt;📉 Minimize manual work and human error&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-does-a-cicd-pipeline-work&#34;&gt;🔄 How Does a CI/CD Pipeline Work?&lt;/h2&gt;
+&lt;p&gt;A typical &lt;strong&gt;CI/CD pipeline&lt;/strong&gt; includes the following stages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Fetch code from the repository&lt;/strong&gt; (e.g., GitHub, GitLab)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build the project&lt;/strong&gt; — generate executables or artifacts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Run tests&lt;/strong&gt; — execute automated tests&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quality analysis&lt;/strong&gt; — linters, code coverage checks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Build Docker image&lt;/strong&gt; — if containerization is used&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deploy&lt;/strong&gt; — deliver the app to a server, cloud, or Kubernetes cluster&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-cicd-tools&#34;&gt;⚙️ Popular CI/CD Tools&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Tool&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Integrated into GitHub, easily configured via YAML&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;A powerful built-in automation system for GitLab&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Jenkins&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;One of the most flexible and customizable tools&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CircleCI&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Well-suited for cloud-based CI/CD pipelines&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Travis CI&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Popular in the open-source community&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-sample-github-actions-configuration&#34;&gt;🛡 Sample GitHub Actions Configuration&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;CI Pipeline&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;branches&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;main&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;jobs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;build-and-test&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;runs-on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ubuntu-latest&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;steps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Checkout code&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;actions/checkout@v3&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Set up Python&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;actions/setup-python@v4&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;python-version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;3.10&amp;#39;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Install dependencies&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;pip install -r requirements.txt&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Run tests&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;pytest tests/&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://anita-bastovanovich.github.io/en/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://anita-bastovanovich.github.io/en/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn JavaScript</title>
+      <link>https://anita-bastovanovich.github.io/en/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://anita-bastovanovich.github.io/en/teaching/js/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili id=&amp;quot;BV1WV4y1r7DF&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&amp;rsquo;s folder&lt;/a&gt;, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
+&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;👉 Click to view the solution&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;We wrap the LaTeX math in the Hugo Blox &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$
+.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
